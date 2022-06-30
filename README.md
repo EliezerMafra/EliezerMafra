@@ -1,6 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eliezer Mafra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hi ✋, I'm Eliezer Mafra</h1>
 
 - 🔥 Full stack programmer and Computer Engineer 
 
@@ -10,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, HTML, CSS, SQL, Node.JS**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -22,8 +21,11 @@
  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="outlook"/>
  <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="outlook"/>
  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="outlook"/>
+ <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="outlook"/>
+ <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="outlook"/>
+ <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="outlook"/>
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
