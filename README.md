@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi ✋, I'm Eliezer Mafra</h1>
 
-- 🔥 Full stack programmer and Computer Engineer 
+- 🔥 Full Cycle developer and Computer Engineer 
 
 - 🔭 I’m currently working at [PradoLux](https://pradolux.com.br/)
 
