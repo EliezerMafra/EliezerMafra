@@ -3,7 +3,7 @@
 
 - 🔥 Full Cycle developer and Computer Engineer 
 
-- 🔭 I’m currently working at [PradoLux](https://pradolux.com.br/)
+- 🔭 I’m currently working at [Code1](https://code1.com.br/)
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/EliezerMafra?tab=repositories)
 
