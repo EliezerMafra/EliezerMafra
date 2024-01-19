@@ -3,7 +3,7 @@
 
 - 🔥 Full Stack developer and Computer Engineer 
 
-- 🔭 I’m currently working at [Code1](https://code1.com.br/)
+- 🔭 I’m currently working at [Ecotrak](https://ecotrak.com/)
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/EliezerMafra?tab=repositories)
 
